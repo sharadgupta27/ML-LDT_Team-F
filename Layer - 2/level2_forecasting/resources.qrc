@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/level2_forecasting" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

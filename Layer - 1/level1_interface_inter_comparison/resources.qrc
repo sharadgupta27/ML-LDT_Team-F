@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Level1_interface_inter_comparison" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

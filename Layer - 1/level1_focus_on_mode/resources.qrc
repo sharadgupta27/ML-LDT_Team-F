@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/level1_focus_on_mode" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

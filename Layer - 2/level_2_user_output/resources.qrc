@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/level_2_user_output" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
