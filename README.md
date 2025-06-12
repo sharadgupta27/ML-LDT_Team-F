@@ -5,7 +5,7 @@ GeoLDN-UNCCD Tool - Team F
 
 ## Description and References
 
-- A paper titled "A multi-layered land degradation monitoring and forecasting tool to support land degradation neutrality target setting" is under review in Land Degradation and Development, Wiley with Reference Id: LDD-22-0350.
+- A paper titled "A multi-layered land degradation monitoring and forecasting tool to support land degradation neutrality target setting" is published in Land Degradation and Development, Wiley (https://doi.org/10.1002/ldr.4785).
 
 - The work was carried out under UNCCD Geo-LDN Competition by Prof. Jungrack Kim, Dr. Sharad Kumar Gupta, and Dr. Claudio Zucca. Many other scientists and researchers, namely Dr. Dericks P. Shukla, Mr. Arindam Sharma, Mr. Abhishek Prajapat, and Mr. Prarit Viz, were involved in this project.
 
