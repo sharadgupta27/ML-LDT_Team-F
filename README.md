@@ -9,7 +9,7 @@ GeoLDN-UNCCD Tool - Team F
 
 - The work was carried out under UNCCD Geo-LDN Competition by Prof. Jungrack Kim, Dr. Sharad Kumar Gupta, and Dr. Claudio Zucca. Many other scientists and researchers, namely Dr. Dericks P. Shukla, Mr. Arindam Sharma, Mr. Abhishek Prajapat, and Mr. Prarit Viz, were involved in this project.
 
-- The repository is maintained by Dr. Sharad Kumar Gupta @Sharadgupta27 and Mr. Arindam Sharma @arindam-sharma.
+- The repository is maintained by Dr. Sharad Kumar Gupta @sharadgupta27 and Mr. Arindam Sharma @arindam-sharma.
 - In case of queries, feel free to contact me through my email ID sharadgupta27@gmail.com
 - For contributions or opening issues, please make a [pull reuqest](https://github.com/sharadgupta27/ML-LDT_Team-F/pulls) or open [issues](https://github.com/sharadgupta27/ML-LDT_Team-F/issues) respectively.
 
